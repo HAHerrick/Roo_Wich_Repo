@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  } 
+    .topnav{display: inline-block; padding: 20px 80px;
+    border-right: 5px; background-color: aqua; width: 100%; font-size: 20px;
+
+}
+.navitem{
+    display: inline-block;
+    padding: 20px;
+    color: blue;
+    border-right: 2px solid darkblue;
+   
+ 
+    
+}
+.heading{padding-left: 30px;}
+.left{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 15px;
+}
+.list{font-size: 15px;}
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+.imgbottom{ padding-left: 30px;}
+.paragraph{padding-left:30px;padding-right: 20px; }
+.imgleft{float: left; padding-left: 20px;padding-right: 20px;}
+.center{text-align:center; padding-bottom: 10px;}
+
+.imagebar{height: 320px; background-color: blueviolet; width: 29%; float: left;}
+.textbar{height: 500px; background-color: aqua;width: 29%; float: left;}
+
+.main{
+    width: 71%; float: right; height: 820px; background-color: aquamarine; 
+
+}
+
